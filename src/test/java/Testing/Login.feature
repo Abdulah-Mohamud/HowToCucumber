@@ -1,4 +1,4 @@
-Rule: Successfully access website
+Rule: Successful purchase at store
   Scenario: Login to website
   Given I'm at the grocery store
   And I have Bananas
