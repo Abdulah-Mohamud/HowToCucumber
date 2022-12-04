@@ -1,5 +1,5 @@
 Rule: Successful purchase at store
-  Scenario: Login to website
+  Scenario: Buying goods from store
   Given I'm at the grocery store
   And I have Bananas
   And I have Grapes
